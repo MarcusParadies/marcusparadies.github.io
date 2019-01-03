@@ -17,8 +17,8 @@ Education
 
 * Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011
   
-   Advisor: Prof. Kai-Uwe Sattler  
-   Title: MAXIM: Massive-Scale Entity Matching across XML Data Sources in MapReduce
+   <span style="color:lightgray">*Advisor: Prof. Kai-Uwe Sattler*  
+   *Title: MAXIM: Massive-Scale Entity Matching across XML Data Sources in MapReduce*</span>
 
 Work experience
 ======
