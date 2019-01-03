@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Technical University of Dresden, Germany, 2017  
-   <span style="color:gray">*Advisor: Prof. Wolfgang Lehner*  
-   *Title: Graph Processing in Main-Memory Column Stores*</span>
+   ######Advisor: Prof. Wolfgang Lehner  
+   ######Title: Graph Processing in Main-Memory Column Stores
 
 * Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011  
    <span style="color:gray">*Advisor: Prof. Kai-Uwe Sattler*  
