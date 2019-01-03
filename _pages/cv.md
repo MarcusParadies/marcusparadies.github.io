@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011
+  * Advisor: Prof. Wolfgang Lehner, Title: Graph Processing in Main-Memory Column Stores
+* Ph.D in Computer Science, Technical University of Dresden, Germany, 2017
+  * Advisor: Prof. Kai-Uwe Sattler, Title: MAXIM: Massive-Scale Entity Matching across XML Data Sources in MapReduce
 
 Work experience
 ======
