@@ -11,8 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Technical University of Dresden, Germany, 2017
-
+* Ph.D in Computer Science, Technical University of Dresden, Germany, 2017  
    Advisor: Prof. Wolfgang Lehner  
    Title: Graph Processing in Main-Memory Column Stores
 
