@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011
-  
-   Advisor: Prof. Wolfgang Lehner  
-   Title: Graph Processing in Main-Memory Column Stores
-
 * Ph.D in Computer Science, Technical University of Dresden, Germany, 2017
 
    Advisor: Prof. Kai-Uwe Sattler  
    Title: MAXIM: Massive-Scale Entity Matching across XML Data Sources in MapReduce
+
+* Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011
+  
+   Advisor: Prof. Wolfgang Lehner  
+   Title: Graph Processing in Main-Memory Column Stores
 
 Work experience
 ======
