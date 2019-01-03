@@ -13,13 +13,13 @@ Education
 ======
 * Ph.D in Computer Science, Technical University of Dresden, Germany, 2017
 
-   Advisor: Prof. Kai-Uwe Sattler  
-   Title: MAXIM: Massive-Scale Entity Matching across XML Data Sources in MapReduce
+   Advisor: Prof. Wolfgang Lehner  
+   Title: Graph Processing in Main-Memory Column Stores
 
 * Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011
   
-   Advisor: Prof. Wolfgang Lehner  
-   Title: Graph Processing in Main-Memory Column Stores
+   Advisor: Prof. Kai-Uwe Sattler  
+   Title: MAXIM: Massive-Scale Entity Matching across XML Data Sources in MapReduce
 
 Work experience
 ======
