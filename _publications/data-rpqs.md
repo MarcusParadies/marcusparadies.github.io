@@ -2,7 +2,6 @@
 title: "Analysis of Data Structures Involved in RPQ Evaluation"
 collection: publications
 permalink: /publication/data-rpqs
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-08-22
 venue: 'DATA'
 paperurl: 'http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0006860303340343'
