@@ -21,5 +21,8 @@ main:
 #  - title: "Guide"
 #    url: /markdown/
 
+  - title: "Service"
+    url: /service/
+
   - title: "Data Management Technologies Group"
     url: /dmt/
