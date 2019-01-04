@@ -2,7 +2,6 @@
 title: "An early look at the LDBC social network benchmark's business intelligence workload"
 collection: publications
 permalink: /publication/grades-ldbc_bi
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-06-22
 venue: 'GRADES-NDA'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3210268'
