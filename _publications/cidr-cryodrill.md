@@ -6,7 +6,7 @@ date: 2019-10-01
 venue: 'CIDR'
 paperurl: 'http://marcusparadies.github.io/files/cidr-cryodrill.pdf'
 tag: 'dmt'
-authors: 'Marcus Paradies'
+authors: 'Marcus Paradies (DLR)'
 ---
 
 <p><i>Authors: Marcus Paradies (DLR)</i></p>
