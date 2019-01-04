@@ -11,12 +11,12 @@ In this context, novel methods for storage and processing strategies for large v
 The research is conducted in collaboration with the [German Remote Sensing Data Center](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5278/8856_read-15911/) in Oberpfaffenhofen and the academic collaborators from the [Technische Universität Ilmenau](https://www.tu-ilmenau.de/dbis/) and the [Friedrich-Schiller Universität Jena](http://fusion.cs.uni-jena.de/fusion/).
 
 ### Recent Publications
-  <ul>{% for post in site.publications reversed %}
+  {% for post in site.publications reversed %}
     {% if post.tag == "dmt" %}
       {{ post.date | default: "1900-01-01" | date: "%Y" }}  
-      {% include archive-single-cv.html %}
+      {% include archive-single-cv.html %}  
     {% endif %}
-  {% endfor %}</ul>
+  {% endfor %}
 
 ### Projects
 
