@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marcus Paradies"
 title_separator          : "-"
 name                     : &name "Marcus Paradies"
-description              : &description "Research group lead at German Aerospace Center"
+description              : &description "Research group lead at the German Aerospace Center"
 url                      : https://marcusparadies.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MarcusParadies/marcusparadies.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marcus Paradies"
   avatar           : "profile.png"
-  bio              : "Research group lead at German Aerospace Center working on large-scale data management"
+  bio              : "Research group lead at the German Aerospace Center working on large-scale data management"
   location         : "Jena, Germany"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=psFgGl8AAAAJ&hl=de"
