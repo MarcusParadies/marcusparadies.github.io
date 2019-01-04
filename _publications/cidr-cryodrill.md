@@ -9,4 +9,4 @@ tag: 'dmt'
 authors: 'Marcus Paradies'
 ---
 
-<p><i>{{ site.authors }}</i></p>
+<p><i>Authors: {{ site.authors }}</i></p>
