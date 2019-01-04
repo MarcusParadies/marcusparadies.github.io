@@ -12,5 +12,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ### Recent Publications
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% if post.tag = "dmt" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
