@@ -2,7 +2,6 @@
 title: "G-CORE: A Core for Future Graph Query Languages"
 collection: publications
 permalink: /publication/sigmod-gcore
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-06-22
 venue: 'SIGMOD'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3190654'
