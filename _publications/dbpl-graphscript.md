@@ -2,7 +2,6 @@
 title: "GraphScript: Implementing Complex Graph Algorithms in SAP HANA"
 collection: publications
 permalink: /publication/dbpl-graphscript
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-09-01
 venue: 'DBPL'
 paperurl: 'https://dl.acm.org/citation.cfm?id=3122841'
