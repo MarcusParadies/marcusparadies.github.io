@@ -19,3 +19,8 @@ analytics in the same database engine by using graph index structures, efficient
 for domain-specific graph query languages.
 
 **Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.**
+
+### News
+
+* <span style="color:red">12/2018:</span> Our paper on the log analysis of Earth Observation catalog searches has been accepted at [BiDS'19](https://www.bigdatafromspace2019.org/QuickEventWebsitePortal/2019-conference-on-big-data-from-space-bids19/bids-2019)
+* 10/2018: Our extended abstract on near-data processing on cold storage devices has been accepted for the gong show session at [CIDR'19](http://cidrdb.org/cidr2019/)
