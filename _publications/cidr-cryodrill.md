@@ -8,3 +8,5 @@ paperurl: 'http://marcusparadies.github.io/files/cidr-cryodrill.pdf'
 tag: 'dmt'
 authors: 'Marcus Paradies'
 ---
+
+<p><i>{{ site.authors }}</i></p>
