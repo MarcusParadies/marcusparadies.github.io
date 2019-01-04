@@ -21,15 +21,26 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 03/2018: Research Group Lead at German Aerospace Center (DLR), Jena, Germany  
+  Leading a research group on large-scale data management for scientific domains
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2018: Senior Software Developer at SAP SE, Walldorf, Germany    
+  Architect and lead developer of SAP HANA Graph and GraphScript
+  
+* 2015-2016: Software Developer at SAP SE, Walldorf, Germany  
+  Architect and lead developer of SAP HANA Graph
+
+* 2011-2015: External PhD Student at SAP SE, Walldorf, Germany  
+  Work on in-memory graph processing in SAP HANA
+
+* 2010-2011: Internship at IBM Watson, US  
+  Work on large-scale distributed entity matching for semistructured data
+  
+* 2009-2010: Working student at SAP SE, Walldorf, Germany  
+  Work on the detection of soft functional dependencies and entropy-based table compression for in-memory column stores
+
+* 2008-2009: Internship at SAP SE, Walldorf, Germany  
+  Work on the detection of soft functional dependencies and entropy-based table compression for in-memory column stores
   
 Skills
 ======
@@ -57,7 +68,4 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ 
