@@ -2,7 +2,6 @@
 title: "Fast Construction of Compressed Web Graphs"
 collection: publications
 permalink: /publication/data-rpqs
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017-09-06
 venue: 'SPIRE'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-67428-5_11'
