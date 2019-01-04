@@ -16,3 +16,6 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
+
+### Job Offerings
+Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of topics on large-scale data management.
