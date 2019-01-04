@@ -9,4 +9,6 @@ tag: 'dmt'
 authors: 'Marcus Paradies'
 ---
 
-<p><i>Authors: {{ authors }}</i></p>
+{% include base_path %}
+
+<p><i>Authors1: {{ authors }}</i></p>
