@@ -5,9 +5,8 @@ permalink: /publication/data-rpqs
 date: 2017-09-06
 venue: 'SPIRE'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-67428-5_11'
+authors: 'Jan Bross (KIT), Simon Gog (KIT), Matthias Hauck (SAP), Marcus Paradies (SAP)'
 ---
-
-Recommended citation: Jan Broß, Simon Gog, Matthias Hauck, Marcus Paradies. (2017). "Fast Construction of Compressed Web Graphs." <i>SPIRE'17</i>.
 
 **Abstract.** Several compressed graph representations were proposed in the last 15 years. Today, all these representations are highly relevant in practice since they enable to keep large-scale web and social graphs in the main memory of a single machine and consequently facilitate fast random access to nodes and edges.
 
