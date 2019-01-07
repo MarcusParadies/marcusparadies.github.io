@@ -24,7 +24,7 @@ for domain-specific graph query languages.
 
 ### News
 
-* <span style="color:red;font-weight:bold">01/2019:</span> We have a new open position to be filled in our "Data Management Technologies" group starting immediately with a focus on storage structures for multi-dimensional data on modern hardware. [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-31693/)
+* <span style="color:red;font-weight:bold">01/2019:</span> We have a new **open position** to be filled in our "Data Management Technologies" group starting immediately with a focus on storage structures for large-scale multi-dimensional data on modern hardware! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-31693/)
 * <span style="color:red;font-weight:bold">12/2018:</span> Our paper on the log analysis of Earth Observation catalog searches has been accepted at [BiDS'19](https://www.bigdatafromspace2019.org/QuickEventWebsitePortal/2019-conference-on-big-data-from-space-bids19/bids-2019)
 * <span style="color:red;font-weight:bold">10/2018:</span> Our extended abstract on near-data processing on cold storage devices has been accepted for the gong show session at [CIDR'19](http://cidrdb.org/cidr2019/) [[Read more]](http://marcusparadies.github.io/files/cidr-cryodrill.pdf)
 * <span style="color:red;font-weight:bold">07/2018:</span> Our vision paper on challenges and opportunities for large-scale data management for earth observation data has been accepted at [LWDA'18](https://www.uni-mannheim.de/lwda-2018/) [[Read more]](http://marcusparadies.github.io/files/lwda-eo_challenges.pdf)
