@@ -14,6 +14,8 @@ Education
 * Ph.D in Computer Science, Technical University of Dresden, Germany, 2017  
    <span style="color:gray">*Advisor: Prof. Wolfgang Lehner*  
    *Title: Graph Processing in Main-Memory Column Stores*</span> [[Download]](https://marcusparadies.github.io/files/thesis.pdf)
+   
+   In my dissertation work, I have developed a high-performance graph processing system that seamlessly blends transactional graph processing with graph analytics in the same database engine by using graph index structures, efficient algorithms for graph traversals, and code generation techniques for domain-specific graph query languages.
 
 * Diploma (Computer Science), Ilmenau University of Technology, Germany, 2011  
    <span style="color:gray">*Advisor: Prof. Kai-Uwe Sattler*  
