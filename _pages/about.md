@@ -16,7 +16,7 @@ I'm broadly interested in large-scale data management with a focus on building s
 of structured, semistructured, and unstructured data. I am particularly interested in query processing, query optimization and rewriting, index
 structures, algorithms, and data structures.
 
-**Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.**
+**Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management within our group.**
 
 ### News
 
