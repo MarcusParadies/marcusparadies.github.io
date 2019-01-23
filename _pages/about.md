@@ -19,7 +19,7 @@ structures, algorithms, and data structures.
 **Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management within our group.**
 
 ### News
-* <span style="color:red;font-weight:bold">01/2019:</span> Our research group has been featured in a short video clip of a local television channel covering data management challenges in radio astronomy! [[Read more]](https://www.mdr.de/wissen/videos/Daten-aus-dem-All100.html)
+* <span style="color:red;font-weight:bold">01/2019:</span> Our research group has been featured in a short video clip of a local television channel covering data management challenges in radio astronomy! [[Read more (in german)]](https://www.mdr.de/wissen/videos/Daten-aus-dem-All100.html)
 * <span style="color:red;font-weight:bold">01/2019:</span> We have multiple **open student positions** in our "Data Management Technologies" group starting immediately covering all aspects of large-scale data management! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-31787/)
 * <span style="color:red;font-weight:bold">01/2019:</span> We have an **open position** to be filled in our "Data Management Technologies" group starting immediately with a focus on storage structures for large-scale multi-dimensional data on modern hardware! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-31693/)
 * <span style="color:red;font-weight:bold">12/2018:</span> Our paper on the log analysis of Earth Observation catalog searches has been accepted at [BiDS'19](https://www.bigdatafromspace2019.org/QuickEventWebsitePortal/2019-conference-on-big-data-from-space-bids19/bids-2019)
