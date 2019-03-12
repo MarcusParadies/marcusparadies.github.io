@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/bids-log_analysis
 date: 2019-02-16
 venue: 'BiDS'
+paperurl: 'http://marcusparadies.github.io/files/bids-log_analysis.pdf'
 tag: 'dmt'
 authors: 'Sirko Schindler (DLR), Marcus Paradies (DLR), and Andre Twele (DLR)'
 ---
