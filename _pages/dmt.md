@@ -20,7 +20,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ### Projects
 
-[Project CryoDrill](https://marcusparadies.github.io/projects/cryodrill)
+[**CryoDrill**](https://marcusparadies.github.io/projects/cryodrill.md)
 
 ### Job Offerings
 Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.
