@@ -1,1 +1,4 @@
-Test
+---
+collection: projects
+permalink: /projects/cryodrill
+---
