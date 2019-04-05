@@ -19,6 +19,8 @@ structures, algorithms, and data structures.
 **Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management within our group.**
 
 ### News
+
+* <span style="color:red;font-weight:bold">04/2019:</span> Our extended abstract on near-data processing on cold storage devices has been accepted for the lightning talk session at [XLDB'19](https://conf.slac.stanford.edu/xldb2019/agenda-css-2019) [[Lightning Talk Slides]](http://marcusparadies.github.io/files/cryodrill.xldb.pdf)
 * <span style="color:red;font-weight:bold">01/2019:</span> Our research group has been featured in a short video clip of a local television channel covering data management challenges in radio astronomy! [[Read more (in german)]](https://www.mdr.de/wissen/videos/Daten-aus-dem-All100.html)
 * <span style="color:red;font-weight:bold">01/2019:</span> We have multiple **open student positions** in our "Data Management Technologies" group starting immediately covering all aspects of large-scale data management! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-31787/)
 * <span style="color:red;font-weight:bold">01/2019:</span> We have an **open position** to be filled in our "Data Management Technologies" group starting immediately with a focus on storage structures for large-scale multi-dimensional data on modern hardware! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-31693/)
