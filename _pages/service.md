@@ -4,8 +4,8 @@ title: "Service"
 ---
 
 ### Academic Workshops
-* GRADES-NDA 2019 (co-located with SIGMOD 2019)  
-* GRADES-NDA 2018 (co-located with SIGMOD 2018)
+* Reviewer for GRADES-NDA 2019 (co-located with SIGMOD 2019)  
+* Reviewer for GRADES-NDA 2018 (co-located with SIGMOD 2018)
 
 ### Organization
 * Organization of LWDA'19 Track FG-DB with Ulf Leser (HU Berlin), Berlin, 2019
