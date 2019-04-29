@@ -20,6 +20,7 @@ structures, algorithms, and data structures.
 
 ### News
 
+* <span style="color:red;font-weight:bold">04/2019:</span> Our paper entitled "Cold Storage Data Archives: More Than Just a Bunch of Tapes" has been accepted at the DAMON'19 workshop co-located with SIGMOD! [[Preprint]](https://arxiv.org/abs/1904.04736)
 * <span style="color:red;font-weight:bold">04/2019:</span> We have an **open position** to be filled in our "Data Management Technologies" group starting immediately with a focus on data management methods for data-intensive radio astronomy! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-33368/)
 * <span style="color:red;font-weight:bold">04/2019:</span> We are co-organizing the FG-DB track at the LWDA together with Ulf Leser (HU Berlin) in Berlin this year. Check out the [[CfP]](https://pages.cms.hu-berlin.de/ipa/lwda2019/cfp_dbwm) and consider submitting!
 * <span style="color:red;font-weight:bold">04/2019:</span> Our extended abstract on near-data processing on cold storage devices has been accepted for the lightning talk session at [XLDB'19](https://conf.slac.stanford.edu/xldb2019/agenda-css-2019) [[Lightning Talk Slides]](http://marcusparadies.github.io/files/cryodrill.xldb.pdf)
