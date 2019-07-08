@@ -20,7 +20,7 @@ structures, algorithms, and data structures.
 
 ### News
 
-* <span style="color:red;font-weight:bold">06/2019:</span> Our paper entitled "Automatic Facet Generation and Selection over Knowledge Graphs" has been accepted at the SEMANTiCS'19 conference!
+* <span style="color:red;font-weight:bold">06/2019:</span> Our paper entitled "Automatic Facet Generation and Selection over Knowledge Graphs" has been accepted for publication at the SEMANTiCS'19 conference!
 * <span style="color:red;font-weight:bold">04/2019:</span> Our paper entitled "Cold Storage Data Archives: More Than Just a Bunch of Tapes" has been accepted at the DAMON'19 workshop co-located with SIGMOD! [[Paper]](https://dl.acm.org/authorize?N686393)
 * <span style="color:red;font-weight:bold">04/2019:</span> We have an **open position** to be filled in our "Data Management Technologies" group starting immediately with a focus on data management methods for data-intensive radio astronomy! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-33368/)
 * <span style="color:red;font-weight:bold">04/2019:</span> We are co-organizing the FG-DB track at the LWDA together with Ulf Leser (HU Berlin) in Berlin this year. Check out the [[CfP]](https://pages.cms.hu-berlin.de/ipa/lwda2019/cfp_dbwm) and consider submitting!
