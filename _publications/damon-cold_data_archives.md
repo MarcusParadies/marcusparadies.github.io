@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/damon-cold_data_archives
 date: 2019-07-01
 venue: 'DaMoN'
-paperurl: 'http://marcusparadies.github.io/files/damon-cold_data_archives.pdf'
+paperurl: 'https://doi.org/10.1145/3329785.3329921'
 tag: 'dmt'
 authors: 'Bunjamin Memishi (DLR), Raja Appuswamy (EURECOM), and Marcus Paradies (DLR)'
 ---
