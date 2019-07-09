@@ -6,7 +6,7 @@ date: 2018-08-22
 venue: 'LWDA'
 paperurl: 'http://marcusparadies.github.io/files/lwda-eo_challenges.pdf'
 tag: 'dmt'
-authors: 'Marcus Paradies (DLR), Sirko Schindler (DLR), Stephan Kiemle (DLR), Eberhard Mikusch (DLR)'
+authors: 'Marcus Paradies (German Aerospace Center), Sirko Schindler (German Aerospace Center), Stephan Kiemle (German Aerospace Center), Eberhard Mikusch (German Aerospace Center)'
 ---
 
 **Abstract.** Earth observation (EO) has witnessed a growing interest in research and industry, as it covers a wide range of different applications, ranging from land monitoring, climate change detection, and emergency management to atmosphere monitoring, among others. Due to the sheer size and heterogeneity of the data, EO poses tremendous challenges to the payload ground segment, to receive, store, process, and preserve the data for later investigation by end users.

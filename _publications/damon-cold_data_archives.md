@@ -6,7 +6,7 @@ date: 2019-07-01
 venue: 'DaMoN'
 paperurl: 'https://doi.org/10.1145/3329785.3329921'
 tag: 'dmt'
-authors: 'Bunjamin Memishi (DLR), Raja Appuswamy (EURECOM), and Marcus Paradies (DLR)'
+authors: 'Bunjamin Memishi (German Aerospace Center), Raja Appuswamy (EURECOM), and Marcus Paradies (German Aerospace Center)'
 ---
 
 **Abstract.** The abundance of available sensor and derived data from large scientific experiments, such as earth observation programs, radio astronomy sky surveys, and high-energy physics already exceeds the storage hardware globally fabricated per year. To that end, cold storage data archives are the---often overlooked---spearheads of modern big data analytics in scientific, data-intensive application domains. While high-performance data analytics has received much attention from the research community, the growing number of problems in designing and deploying cold storage archives has only received very little attention. 
