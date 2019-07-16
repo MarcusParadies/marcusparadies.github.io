@@ -14,7 +14,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
   <ul>{% for post in site.publications reversed %}
     {% if post.tag == "dmt" %}
       {% assign yr = post.date | default: "1900-01-01" | date: "%Y" %}
-      ## {{ yr }}
+  <b> {{ yr }} </b>
       <!--{{ post.date | default: "1900-01-01" | date: "%Y" }}  -->
       {% include archive-single-cv.html %}
     {% endif %}
