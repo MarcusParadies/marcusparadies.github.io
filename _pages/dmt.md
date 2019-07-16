@@ -17,7 +17,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
       {% assign newyr = post.date | default: "1900-01-01" | date: "%Y" %}
     <!--{% if oldyr > newyr %} -->
       {% assign oldyr = newyr %}
-        <b> {{ newyr }} || {{ oldyr }}</b> 
+        <b> {{ newyr }} {{ oldyr }}</b> 
     <!--{% endif %}-->
       <!--{{ post.date | default: "1900-01-01" | date: "%Y" }}  -->
       {% include archive-single-cv.html %}
