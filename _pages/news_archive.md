@@ -1,7 +1,6 @@
 ---
 permalink: /archive/
 title: "News Archive"
-excerpt: "News archive"
 ---
 
 ### News Archive
