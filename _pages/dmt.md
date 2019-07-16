@@ -15,12 +15,10 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
   <ul>{% for post in site.publications reversed %}
     {% if post.tag == "dmt" %}
       {% assign newyr = post.date | default: "1900-01-01" | date: "%Y" %}
-      {% if oldyr > newyr %}
         {% assign oldyr = newyr %}
         <b> Hello {{ newyr }} </b>
-      {% endif %}
       {% include archive-single-cv.html %}
-  <b> Test6 </b>
+  <b> Test7 </b>
     {% endif %}
   {% endfor %}</ul>
 
