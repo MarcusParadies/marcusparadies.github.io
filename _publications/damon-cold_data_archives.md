@@ -5,6 +5,8 @@ permalink: /publication/damon-cold_data_archives
 date: 2019-07-01
 venue: 'DaMoN'
 paperurl: 'https://doi.org/10.1145/3329785.3329921'
+presentationurl: 'https://github.com/MarcusParadies/marcusparadies.github.io/blob/master/files/damon.coldstorage.presentation.pdf'
+posterurl: 'https://github.com/MarcusParadies/marcusparadies.github.io/blob/master/files/damon.coldstorage.poster.pdf'
 tag: 'dmt'
 authors: 'Bunjamin Memishi (German Aerospace Center), Raja Appuswamy (EURECOM), and Marcus Paradies (German Aerospace Center)'
 ---
