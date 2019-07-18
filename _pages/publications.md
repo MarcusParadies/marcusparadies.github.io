@@ -10,7 +10,6 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 {% include base_path %}
 
 {% for post in site.publications reversed %}
- {% post.authors %}
   {% if post.authors contains 'Paradies' %}
     {% include archive-single.html %}
   {% endif %}
