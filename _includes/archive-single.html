@@ -61,7 +61,10 @@
        <a href=" {{ post.paperurl }} ">[Paper]</a>
     {% endif %}
     {% if post.presentationurl %}
-       <a href=" {{ post.presentationurl }} ">[Paper]</a>
+       &nbsp;<a href=" {{ post.presentationurl }} ">[Presentation]</a>
+    {% endif %}
+    {% if post.posterurl %}
+       &nbsp;<a href=" {{ post.posterurl }} ">[Poster]</a>
     {% endif %}
     </p>
     <!--{% if post.citation and post.paperurl %}
