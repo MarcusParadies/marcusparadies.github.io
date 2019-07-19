@@ -6,6 +6,7 @@ date: 2018-08-22
 venue: 'LWDA'
 paperurl: 'http://marcusparadies.github.io/files/lwda-eo_challenges.pdf'
 tag: 'dmt'
+topic: 'storage,semantics'
 authors: 'Marcus Paradies (German Aerospace Center), Sirko Schindler (German Aerospace Center), Stephan Kiemle (German Aerospace Center), Eberhard Mikusch (German Aerospace Center)'
 ---
 
