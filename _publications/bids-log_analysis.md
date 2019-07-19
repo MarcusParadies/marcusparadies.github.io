@@ -6,6 +6,7 @@ date: 2019-02-16
 venue: 'BiDS'
 paperurl: 'http://marcusparadies.github.io/files/bids-log_analysis.pdf'
 tag: 'dmt'
+topic: 'semantics'
 authors: 'Sirko Schindler (German Aerospace Center), Marcus Paradies (German Aerospace Center), and Andre Twele (German Aerospace Center)'
 ---
 
