@@ -12,7 +12,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ## Members
 
-* Marcus Paradies
+* Marcus Paradies (team lead)
 * [Sirko Schindler](https://marcusparadies.github.io/dmt/members/~schindler/)
 * [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
 * [Azat Nurgaliev](https://marcusparadies.github.io/dmt/members/~nurgaliev/)
