@@ -14,7 +14,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 * Marcus Paradies
 * Sirko Schindler
-* Bunjamin Memishi
+* [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
 * Azat Nurgaliev
 
 ## Recent Publications
