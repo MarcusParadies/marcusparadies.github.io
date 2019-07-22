@@ -1,5 +1,5 @@
 ---
 title: "Dr. Bunjamin Memishi"
 collection: members
-permalink: /members/~memishi
+permalink: dmt/members/~memishi
 ---
