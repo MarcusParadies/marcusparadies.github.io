@@ -4,9 +4,9 @@ collection: members
 permalink: /dmt/members/~memishi/
 ---
 
-## Recent publications
-
 {% include base_path %}
+
+## Recent publications
 
 {% for post in site.publications reversed %}
   {% if post.authors contains 'Memishi' %}
