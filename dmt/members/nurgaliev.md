@@ -7,6 +7,6 @@ permalink: /dmt/members/~nurgaliev/
 
 {% for post in site.publications reversed %}
   {% if post.authors contains 'Nurgaliev' %}
-    {% include archive-single.html %}
+    {% include archive-compact.html %}
   {% endif %}
 {% endfor %}
