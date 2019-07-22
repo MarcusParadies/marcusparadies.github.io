@@ -7,6 +7,6 @@ permalink: /dmt/members/~schindler/
 
 {% for post in site.publications reversed %}
   {% if post.authors contains 'Schindler' %}
-    {% include archive-single.html %}
+    {% include archive-compact.html %}
   {% endif %}
 {% endfor %}
