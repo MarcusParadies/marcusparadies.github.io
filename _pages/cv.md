@@ -43,17 +43,8 @@ Work experience
 
 * 2008-2009: Internship at SAP SE, Walldorf, Germany  
   Work on the detection of soft functional dependencies and entropy-based table compression for in-memory column stores
-  
-<!--Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
-Publications
+<!--Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
