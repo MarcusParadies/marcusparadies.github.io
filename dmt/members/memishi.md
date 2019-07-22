@@ -1,5 +1,5 @@
 ---
-title: "Dr. Bunjamin Memishi"
+title: "Members > Dr. Bunjamin Memishi"
 collection: members
 permalink: /dmt/members/~memishi
 ---
