@@ -20,11 +20,8 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 ## External Collaborators
 
 * [Hani Al-Sayeh (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~al-sayeh/)
-(https://www.tu-ilmenau.de/dbis/staff/hani-al-sayeh/)
 * [Stefan Hagedorn (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~hagedorn/)
-(https://www.tu-ilmenau.de/dbis/staff/stefan-hagedorn/)
 * [Leila Feddoul (FSU Jena)](https://marcusparadies.github.io/dmt/members/~feddoul/)
-(https://fusion.cs.uni-jena.de/fusion/members/feddoul-leila/)
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
