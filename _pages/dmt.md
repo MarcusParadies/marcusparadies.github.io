@@ -17,6 +17,12 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
 * [Azat Nurgaliev](https://marcusparadies.github.io/dmt/members/~nurgaliev/)
 
+## External Collaborators
+
+* [Hani Al-Sayeh (TU Ilmenau)](https://www.tu-ilmenau.de/dbis/staff/hani-al-sayeh/)
+* [Stefan Hagedorn (TU Ilmenau)](https://www.tu-ilmenau.de/dbis/staff/stefan-hagedorn/)
+* [Leila Feddoul (FSU Jena)](https://fusion.cs.uni-jena.de/fusion/members/feddoul-leila/)
+
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
     {% if post.tag == "dmt" %}
