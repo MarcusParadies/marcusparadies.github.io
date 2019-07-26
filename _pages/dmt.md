@@ -41,5 +41,5 @@ We propose CryoDrill, an NDP framework, which pushes parts of the computation of
 ## Job Offerings
 Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.
 
-<!--* [**Student position on large-scale data management software development**](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-31787/)-->
+* [**Student position on large-scale data management software development**](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-36995/)
 * [**Researcher position on large-scale data management for data-intensive radio astronomy**](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-33368/)
