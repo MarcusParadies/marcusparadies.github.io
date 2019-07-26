@@ -20,7 +20,7 @@ structures, algorithms, and data structures.
 
 ### News
 
-<!--* <span style="color:red;font-weight:bold">07/2019:</span> We have multiple **open student positions** available in our "Data Management Technologies" group covering all aspects of large-scale data management! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-31787/)-->
+* <span style="color:red;font-weight:bold">07/2019:</span> We have multiple **open student positions** available in our "Data Management Technologies" group covering all aspects of large-scale data management! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-36995/)
 * <span style="color:red;font-weight:bold">06/2019:</span> Our paper entitled "Automatic Facet Generation and Selection over Knowledge Graphs" has been accepted for publication at the SEMANTiCS'19 conference!
 * <span style="color:red;font-weight:bold">04/2019:</span> Our paper entitled "Cold Storage Data Archives: More Than Just a Bunch of Tapes" has been accepted at the DAMON'19 workshop co-located with SIGMOD! [[Paper]](https://dl.acm.org/authorize?N686393) [[Presentation]](https://marcusparadies.github.io/files/damon.coldstorage.presentation.pdf) [[Poster]](https://marcusparadies.github.io/files/damon.coldstorage.poster.pdf)
 * <span style="color:red;font-weight:bold">04/2019:</span> We have an **open position** to be filled in our "Data Management Technologies" group starting immediately with a focus on data management methods for data-intensive radio astronomy! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-33368/)
