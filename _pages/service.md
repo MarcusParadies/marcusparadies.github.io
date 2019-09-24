@@ -7,6 +7,7 @@ title: "Service"
 * Subreviewer for [Euro-Par 2019](https://2019.euro-par.org/)
 
 ### Academic Workshops
+* Reviewer for [GRADES-NDA 2020](https://sites.google.com/site/gradesnda2020) (co-located with SIGMOD 2020)  
 * Reviewer for [GRADES-NDA 2019](https://sites.google.com/site/gradesnda2019) (co-located with SIGMOD 2019)  
 * Reviewer for [GRADES-NDA 2018](https://sites.google.com/site/gradesnda2018) (co-located with SIGMOD 2018)
 
