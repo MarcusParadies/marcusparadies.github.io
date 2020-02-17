@@ -29,6 +29,10 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
+  
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
 
 ## Projects
 
