@@ -32,7 +32,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
   
 ## Projects
 
-{% for post in site.project %}
+{% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 
