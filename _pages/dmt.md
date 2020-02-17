@@ -30,11 +30,11 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
     {% endif %}
   {% endfor %}</ul>
   
+## Projects
+
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
-## Projects
 
 ### CryoDrill
 
