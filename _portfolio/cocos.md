@@ -1,6 +1,6 @@
 ---
 title: "COCOS"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Computational cold storage for data-intensive sciences<br/><img src='/images/cocos.png' width='500'>"
 collection: portfolio
 ---
 
