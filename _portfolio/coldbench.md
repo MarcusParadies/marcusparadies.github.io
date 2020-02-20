@@ -1,6 +1,6 @@
 ---
 title: "ColdBench"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/coldbench.png' width="500">"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/coldbench.png' width='500'>"
 collection: portfolio
 ---
 
