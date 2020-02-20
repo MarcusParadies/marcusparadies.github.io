@@ -1,6 +1,6 @@
 ---
 title: "ColdBench"
-excerpt: "A benchmarking suite for cold data storage systems<br/><br/><img src='/images/coldbench.png' width='500'>"
+excerpt: "A benchmarking suite for cold data storage systems<br/><img src='/images/coldbench.png' width='500'>"
 collection: portfolio
 ---
 
