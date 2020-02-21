@@ -10,16 +10,14 @@ redirect_from:
 
 Hi, I'm Marcus!
 
-<p align="justify">
-I'm leading a research group on data management technologies for scientific application domains, such as, earth observation and radio astronomy, at the [Institute of Data Science](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12192/21400_read-49437/) of the German Aerospace Center (DLR) in Jena, Germany. </p>
+I'm leading a research group on data management technologies for scientific application domains, such as, earth observation and radio astronomy, at the [Institute of Data Science](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12192/21400_read-49437/) of the German Aerospace Center (DLR) in Jena, Germany.
 
 <p align="justify">
 I'm broadly interested in large-scale data management with a focus on building systems to enable efficient query processing on large volumes
 of structured, semistructured, and unstructured data. I am particularly interested in query processing, query optimization and rewriting, index
-structures, algorithms, and data structures.
+structures, algorithms, and data structures.</p>
 
 **Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management within our group.**
-</p>
 
 ### News
 
