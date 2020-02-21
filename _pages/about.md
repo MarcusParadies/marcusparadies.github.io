@@ -24,7 +24,6 @@ structures, algorithms, and data structures.
 ### News
 
 * <span style="color:red;font-weight:bold">02/2020:</span> We have a **PhD position** available in our "Data Management Technologies" group with focus on semantic metadata descriptions and curation of scientific data! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40482/)
-
 * <span style="color:red;font-weight:bold">02/2020:</span> We have a **PhD position** available in our "Data Management Technologies" group with focus on data management for large-scale radio astronomy data! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40348/)
 * <span style="color:red;font-weight:bold">02/2020:</span> We have **open student positions (working student/internship/thesis)** available in our "Data Management Technologies" on data storage and data-intensive systems! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-40365/)
 * <span style="color:red;font-weight:bold">06/2019:</span> Our paper entitled "Automatic Facet Generation and Selection over Knowledge Graphs" has been accepted for publication at the SEMANTiCS'19 conference! [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-33220-4_23)
