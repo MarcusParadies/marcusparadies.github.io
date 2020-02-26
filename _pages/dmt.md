@@ -40,5 +40,6 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 ## Job Offerings
 Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.
 
+* [**PhD position on semantic metadata descriptions and curation of scientific data**](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40482/)
 * [**PhD position on data management for large-scale radio astronomy data**](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40348/)
 * [**Working student/internship/thesis position on data storage systems and data-intensive systems (in German)**](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-40365/)
