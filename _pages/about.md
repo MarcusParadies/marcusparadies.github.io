@@ -22,7 +22,7 @@ structures, algorithms, and data structures.</p>
 ### News
 
 * <span style="color:red;font-weight:bold">02/2020:</span> We have a **PhD position** available in our "Data Management Technologies" group with focus on semantic metadata descriptions and curation of scientific data! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40482/)
-* <span style="color:red;font-weight:bold">02/2020:</span> We have a **PhD position** available in our "Data Management Technologies" group with focus on data management for large-scale radio astronomy data! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40348/)
+* <span style="color:red;font-weight:bold">02/2020:</span> We have a  ~~**PhD position** available~~ in our "Data Management Technologies" group with focus on data management for large-scale radio astronomy data! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-40348/)
 * <span style="color:red;font-weight:bold">02/2020:</span> We have **open student positions (working student/internship/thesis)** available in our "Data Management Technologies" on data storage and data-intensive systems! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-40365/)
 
 [News archive](https://marcusparadies.github.io/archive/)
