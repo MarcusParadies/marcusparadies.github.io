@@ -3,10 +3,6 @@ title: "Members > Dr. Bunjamin Memishi"
 permalink: /dmt/members/~memishi/
 ---
 
-## Bio
-
-[[CV]](https://marcusparadies.github.io/files/people/memishi/CV.pdf)
-
 ## Recent Publications
 
 {% for post in site.publications reversed %}
