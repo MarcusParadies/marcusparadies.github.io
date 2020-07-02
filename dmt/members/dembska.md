@@ -1,5 +1,5 @@
 ---
-title: "Members > Marta Dembska"
+title: "Members > Dr. Marta Dembska"
 permalink: /dmt/members/~dembska/
 ---
 
