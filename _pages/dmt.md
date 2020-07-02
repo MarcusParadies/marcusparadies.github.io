@@ -18,6 +18,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
 * [Azat Nurgaliev](https://marcusparadies.github.io/dmt/members/~nurgaliev/)
 * [Marta Dembska](https://marcusparadies.github.io/dmt/members/~dembska/)
+* [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
 
 ## External Collaborators
 
