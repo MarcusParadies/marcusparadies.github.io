@@ -4,11 +4,8 @@ collection: publications
 permalink: /publication/dispa-performance_prediction
 date: 2020-08-31
 venue: 'DISPA'
-paperurl: 'https://doi.org/10.1145/3329785.3329921'
-presentationurl: 'https://marcusparadies.github.io/files/damon.coldstorage.presentation.pdf'
-posterurl: 'https://marcusparadies.github.io/files/damon.coldstorage.poster.pdf'
 tag: 'dmt'
-topic: 'storage'
+topic: 'prediction'
 authors: 'Hani Al-Sayeh (Ilmenau University of Technology, Bunjamin Memishi (German Aerospace Center), Marcus Paradies (German Aerospace Center), Kai-Uwe Sattler (Ilmenau University of Technology)'
 ---
 
