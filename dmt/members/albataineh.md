@@ -1,6 +1,6 @@
 ---
 title: "Members > Bara' Al-Bataineh"
-permalink: /dmt/members/~albataineh/
+permalink: /dmt/members/~al-bataineh/
 ---
 
 ## Recent Publications
