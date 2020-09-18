@@ -19,11 +19,11 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Azat Nurgaliev](https://marcusparadies.github.io/dmt/members/~nurgaliev/)
 * [Marta Dembska](https://marcusparadies.github.io/dmt/members/~dembska/)
 * [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
+* [Bara' Al-Bataineh](https://marcusparadies.github.io/dmt/members/~al-bataineh/)
 
 ## External Collaborators
 
 * [Hani Al-Sayeh (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~al-sayeh/)
-* [Stefan Hagedorn (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~hagedorn/)
 * [Leila Feddoul (FSU Jena)](https://marcusparadies.github.io/dmt/members/~feddoul/)
 
 ## Recent Publications
