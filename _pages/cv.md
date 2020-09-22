@@ -23,6 +23,9 @@ Education
 
 Work experience
 ======
+* Since 05/2020: Acting department head at German Aerospace Center (DLR), Jena, Germany  
+  Leading a department of 4 research groups on data management and analysis
+  
 * Since 03/2018: Research Group Lead at German Aerospace Center (DLR), Jena, Germany  
   Leading a research group on large-scale data management for scientific domains
 
