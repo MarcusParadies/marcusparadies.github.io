@@ -20,6 +20,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Marta Dembska](https://marcusparadies.github.io/dmt/members/~dembska/)
 * [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
 * [Bara' Al-Bataineh](https://marcusparadies.github.io/dmt/members/~al-bataineh/)
+* [Sireesha Chamarthi](https://marcusparadies.github.io/dmt/members/~chamarthi/)
 
 ## External Collaborators
 
