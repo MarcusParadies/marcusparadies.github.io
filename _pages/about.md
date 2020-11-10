@@ -21,7 +21,6 @@ structures, algorithms, and data structures.</p>
 
 ### News
 * <span style="color:red;font-weight:bold">07/2020:</span> Our paper "Masha: Sampling-Based Performance Prediction of Big Data Applications in Resource-Constrained Clusters" has been accepted at the DISPA workshop (co-located with VLDB)! [[Read more]](https://marcusparadies.github.io/publication/dispa-performance_prediction)
-* <span style="color:red;font-weight:bold">07/2020:</span> We have an **open PhD position** to be filled in our "Data Management Technologies" group starting immediately with a focus on leveraging modern data storage technologies in data-intensive sciences! [[Read more]](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-45027/)
-* <span style="color:red;font-weight:bold">02/2020:</span> We have **open student positions (working student/internship/thesis)** available in our "Data Management Technologies" on data storage and data-intensive systems! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-40365/)
+<!--* <span style="color:red;font-weight:bold">02/2020:</span> We have **open student positions (working student/internship/thesis)** available in our "Data Management Technologies" on data storage and data-intensive systems! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-40365/) -->
 
 [News archive](https://marcusparadies.github.io/archive/)
