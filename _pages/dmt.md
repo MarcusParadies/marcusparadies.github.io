@@ -21,6 +21,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
 * [Bara' Al-Bataineh](https://marcusparadies.github.io/dmt/members/~al-bataineh/)
 * [Sireesha Chamarthi](https://marcusparadies.github.io/dmt/members/~chamarthi/)
+* [Wenjun Huang](https://marcusparadies.github.io/dmt/members/~huang/)
 
 ## External Collaborators
 
