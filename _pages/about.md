@@ -20,6 +20,7 @@ structures, algorithms, and data structures.</p>
 **Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management within our group.**
 
 ### News
+* <span style="color:red;font-weight:bold">02/2021:</span> Our work-in-progress report "Automated I/O Parameter Tuning of Scientific Applications with Parametrizable Workload Replays" has been accepted at USENIX FAST'21! [[Read more]](https://marcusparadies.github.io/publication/fast-wip_parametrizable_workload_replays)
 * <span style="color:red;font-weight:bold">07/2020:</span> Our paper "Masha: Sampling-Based Performance Prediction of Big Data Applications in Resource-Constrained Clusters" has been accepted at the DISPA workshop (co-located with VLDB)! [[Read more]](https://marcusparadies.github.io/publication/dispa-performance_prediction)
 <!--* <span style="color:red;font-weight:bold">02/2020:</span> We have **open student positions (working student/internship/thesis)** available in our "Data Management Technologies" on data storage and data-intensive systems! [[Read more]](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-40365/) -->
 
