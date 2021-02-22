@@ -1,6 +1,6 @@
 ---
 title: "MAP - MAchine learning based Plasma density model"
-excerpt: "MAchine learning based Plasma density model<br/><img src='/images/csm_Schematic_plasmasphere_9d0839c6bd.jpg'><br/>Image courtesy of NASA"
+excerpt: "<img src='/images/csm_Schematic_plasmasphere_9d0839c6bd.jpg'><br/>Image courtesy of NASA"
 collection: portfolio
 active: 'yes'
 ---
