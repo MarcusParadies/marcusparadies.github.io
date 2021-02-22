@@ -1,5 +1,5 @@
 ---
-title: "MAP"
+title: "MAP - MAchine learning based Plasma density model"
 excerpt: "MAchine learning based Plasma density model<br/><img src='/images/csm_Schematic_plasmasphere_9d0839c6bd.jpg'><br/>Image courtesy of NASA"
 collection: portfolio
 ---
@@ -11,6 +11,10 @@ Satellite technology and in particular GPS- or GNSS-based systems are becoming v
 <p align="justify">
 In this initial project we will demonstrate how machine learning tools can be used to produce a real-time global empirical model of the near-Earth plasma density based on a variety of measurements. The model that will be developed as a follow-up to this current project will then utilize all available data and will be used by a broad range of stakeholders for GPS navigation and satellite operations.
 </p>
+
+![Schematic Plasmasphere](../images/csm_Schematic_plasmasphere_9d0839c6bd.jpg)
+
+(Image courtesy of NASA)
 
 **Principal Investigators**
 * Prof. Yuri Shprits (GFZ) 
