@@ -1,6 +1,6 @@
 ---
 title: "DAPHNE: Integrated Data Analysis Pipelines for Large-Scale Data Management, HPC, and Machine Learning"
-excerpt: "<img src='/images/csm_Schematic_plasmasphere_9d0839c6bd.jpg'><br/>(Creative Commons BY-NC 3.0 license)"
+excerpt: "<img src='/images/Daphne_Crop_1387_809.jpg'><br/>(Creative Commons BY-NC 3.0 license)"
 collection: portfolio
 active: 'yes'
 ---
