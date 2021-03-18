@@ -20,16 +20,16 @@ An undergraduate-level understanding of maths, programming, data structures & al
 | | Date | Topic(s)  | Slides | Materials |
 |:---: | :---: | :---|:---:|:---:|
 |1| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|2| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|3| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|4| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|5| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|6| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|7| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|8| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|9| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|10| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|11| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|12| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|13| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|14| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|2| 20-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|3| 17-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|4| 04-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|5| 11-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|6| 18-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|7| 25-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|8| 01-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|9| 08-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|10| 15-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|11| 22-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|12| 29-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|13| 06-07-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|14| 13-07-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
