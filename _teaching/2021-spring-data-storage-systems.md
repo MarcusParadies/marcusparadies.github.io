@@ -16,6 +16,7 @@ This course is primarily designed for undergraduate students, who already comple
 An undergraduate-level understanding of maths, programming, data structures & algorithms, operating systems, and distributed systems is assumed. 
 
 ### Tentative Course Schedule:
+
 | | Date | Topic(s)  | Slides | Materials |
 |:---: | :---: | :---|:---:|:---:|
 |1| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
