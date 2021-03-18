@@ -17,19 +17,19 @@ An undergraduate-level understanding of maths, programming, data structures & al
 
 ### Tentative Course Schedule:
 
-| | Date | Topic(s)  | Slides | Materials |
+| | Date | Topic(s)  | Slides | Supplementary Materials |
 |:---: | :---: | :---|:---:|:---:|
-|1| 13-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|2| 20-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|3| 17-04-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|4| 04-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|5| 11-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|6| 18-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|7| 25-05-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|8| 01-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|9| 08-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|10| 15-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|11| 22-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|12| 29-06-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|13| 06-07-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|14| 13-07-2021 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|1| 13-04-2021 |Introduction Data Storage Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|2| 20-04-2021 |Hardware Devices & Firmware|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|3| 17-04-2021 |I/O Protocols & Interfaces|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|4| 04-05-2021 |Benchmarking I/O|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|5| 11-05-2021 |I/O Performance Enhancements|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|6| 18-05-2021 |Replication & Crash Recovery|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|7| 25-05-2021 |Storage Tiering & Caching|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|8| 01-06-2021 |Data Deduplication|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|9| 08-06-2021 |Linux I/O Stack Internals|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|10| 15-06-2021 |File Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|11| 22-06-2021 |Distributed File Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|12| 29-06-2021 |KV-Stores & Object Storage|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|13| 06-07-2021 |Cloud Storage|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|14| 13-07-2021 |Recent Trends in the Storage Landscape|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
