@@ -27,6 +27,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 * [Hani Al-Sayeh (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~al-sayeh/)
 * [Leila Feddoul (FSU Jena)](https://marcusparadies.github.io/dmt/members/~feddoul/)
+* [Michael Johnson (MPIfR)](https://marcusparadies.github.io/dmt/members/~johnson/)
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
