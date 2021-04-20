@@ -47,4 +47,3 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 ## Job Offerings
 Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.
 
-* [**Working student/internship/thesis position on data management approaches for data-intensive radio astronomy (in German)**](https://www.dlr.de/dlr/jobs/desktopdefault.aspx/tabid-10596/1003_read-45228/)
