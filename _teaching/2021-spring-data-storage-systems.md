@@ -21,14 +21,14 @@ An undergraduate-level understanding of maths, programming, data structures & al
 |:---: | :---: | :---|:---:|:---:|
 |1| 13-04-2021, 16:00 - 18:00 |Introduction Data Storage Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
 |2| 20-04-2021, 16:00 - 18:00 |Hardware Devices & Firmware|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|3| 17-04-2021, 16:00 - 18:00 |I/O Protocols & Interfaces|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|4| 04-05-2021, 16:00 - 18:00 |Benchmarking I/O|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|5| 11-05-2021, 16:00 - 18:00 |I/O Performance Enhancements|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|6| 18-05-2021, 16:00 - 18:00 |Replication & Crash Recovery|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|7| 25-05-2021, 16:00 - 18:00 |Storage Tiering & Caching|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|8| 01-06-2021, 16:00 - 18:00 |Data Deduplication|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|9| 08-06-2021, 16:00 - 18:00 |Linux I/O Stack Internals|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
-|10| 15-06-2021, 16:00 - 18:00 |File Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|3| 27-04-2021, 16:00 - 18:00 |I/O Protocols & Interfaces|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|4| 04-05-2021, 16:00 - 18:00 |Linux I/O Subsystem|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|5| 11-05-2021, 16:00 - 18:00 |File Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|6| 18-05-2021, 16:00 - 18:00 |Benchmarking I/O|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|7| 25-05-2021, 16:00 - 18:00 |I/O Performance Enhancements|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|8| 01-06-2021, 16:00 - 18:00 |Replication & Crash Recovery|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|9| 08-06-2021, 16:00 - 18:00 |Storage Tiering & Caching|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
+|10| 15-06-2021, 16:00 - 18:00 |Data Deduplication|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
 |11| 22-06-2021, 16:00 - 18:00 |Distributed File Systems|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
 |12| 29-06-2021, 16:00 - 18:00 |KV-Stores & Object Storage|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
 |13| 06-07-2021, 16:00 - 18:00 |Cloud Storage|[slides](https://marcusparadies.github.io/teaching/2021-spring-data-storage-systems)||
