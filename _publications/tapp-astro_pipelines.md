@@ -1,7 +1,7 @@
 ---
 title: "Astronomical Pipeline Provenance: A Use Case Evaluation"
 collection: publications
-permalink: /publication/bids-log_analysis
+permalink: /publication/tapp-astro_pipelines
 date: 2021-06-30
 venue: 'TAPP'
 paperurl: 'https://www.usenix.org/sites/default/files/tapp2021_johnson.pdf'
