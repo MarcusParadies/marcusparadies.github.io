@@ -11,11 +11,12 @@ The main goal of the M-VRE project is to provide novel methods and software tool
 
 ![](https://marcusparadies.github.io/images/mvre_dia_logo_out.png)
 
-(Image courtesy of NASA)
-
 **Principal Investigators**
 * Dr. Sebastian Mieruch-Schnülle (AWI) 
 * Merret Buurman (DKRZ) 
 * Dr. Marcus Paradies (DLR Jena)
+
+**Duration**
+2021 - 2024
 
 [Project Website](https://mosaic-vre.org/)
