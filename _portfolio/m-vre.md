@@ -17,6 +17,7 @@ The main goal of the M-VRE project is to provide novel methods and software tool
 * Dr. Marcus Paradies (DLR Jena)
 
 **Duration**
+
 2021 - 2024
 
 [Project Website](https://mosaic-vre.org/)
