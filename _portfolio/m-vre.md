@@ -1,6 +1,6 @@
 ---
 title: "M-VRE: The MOSAiC - Virtual Research Environment"
-excerpt: "<img src='/images/mvre_dia_logo_out.png'><br/>Image courtesy of NASA"
+excerpt: "<img src='/images/mvre_dia_logo_out.png'><br/>"
 collection: portfolio
 active: 'yes'
 ---
