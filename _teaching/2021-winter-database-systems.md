@@ -16,19 +16,19 @@ This course is primarily designed for undergraduate students, who already comple
 
 | | Date & Time | Topic(s)  | Slides | Supplementary Materials |
 |:---: | :---: | :---|:---:|:---:|
-|1| 19-10-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|2| 26-10-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|3| 02-11-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|4| 09-11-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|5| 16-11-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|6| 23-11-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|7| 30-11-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|8| 07-12-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|9| 14-12-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|10| 21-12-2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|11| 04-01-2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|12| 11-01-2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|13| 18-01-2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|14| 25-01-2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|15| 01-02-2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
-|16| 08-02-2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|1| 19.10.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|2| 26.10.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|3| 02.11.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|4| 09.11.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|5| 16.11.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|6| 23.11.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|7| 30.11.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|8| 07.12.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|9| 14.12.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|10| 21.12.2021, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|11| 04.01.2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|12| 11.01.2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|13| 18.01.2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|14| 25.01.2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|15| 01.02.2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
+|16| 08.02.2022, 12:00 - 14:00 |TBD|[slides](https://marcusparadies.github.io/teaching/2021-winter-database-systems)||
