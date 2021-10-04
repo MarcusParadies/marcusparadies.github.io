@@ -15,12 +15,10 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 * Marcus Paradies (team lead)
 * [Sirko Schindler](https://marcusparadies.github.io/dmt/members/~schindler/)
-* [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
 * [Azat Nurgaliev](https://marcusparadies.github.io/dmt/members/~nurgaliev/)
 * [Marta Dembska](https://marcusparadies.github.io/dmt/members/~dembska/)
 * [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
 * [Bara' Al-Bataineh](https://marcusparadies.github.io/dmt/members/~al-bataineh/)
-* [Sireesha Chamarthi](https://marcusparadies.github.io/dmt/members/~chamarthi/)
 * [Wenjun Huang](https://marcusparadies.github.io/dmt/members/~huang/)
 * [Arne Osterthun](https://marcusparadies.github.io/dmt/members/~osterthun/)
 
@@ -29,6 +27,11 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Hani Al-Sayeh (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~al-sayeh/)
 * [Leila Feddoul (FSU Jena)](https://marcusparadies.github.io/dmt/members/~feddoul/)
 * [Michael Johnson (MPIfR)](https://marcusparadies.github.io/dmt/members/~johnson/)
+
+## Alumni
+
+* [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
+* [Sireesha Chamarthi](https://marcusparadies.github.io/dmt/members/~chamarthi/)
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
