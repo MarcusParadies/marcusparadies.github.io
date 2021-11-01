@@ -19,7 +19,6 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Marta Dembska](https://marcusparadies.github.io/dmt/members/~dembska/)
 * [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
 * [Bara' Al-Bataineh](https://marcusparadies.github.io/dmt/members/~al-bataineh/)
-* [Wenjun Huang](https://marcusparadies.github.io/dmt/members/~huang/)
 * [Arne Osterthun](https://marcusparadies.github.io/dmt/members/~osterthun/)
 
 ## External Collaborators
@@ -29,6 +28,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ## Alumni
 
+* [Wenjun Huang](https://marcusparadies.github.io/dmt/members/~huang/)
 * [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
 * [Sireesha Chamarthi](https://marcusparadies.github.io/dmt/members/~chamarthi/)
 * [Hani Al-Sayeh (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~al-sayeh/)
