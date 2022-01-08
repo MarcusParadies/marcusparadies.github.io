@@ -20,7 +20,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
-    {% if post.tag == "dzv" %}
+    {% if post.tag contains "dzv" %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
