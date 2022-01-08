@@ -5,7 +5,7 @@ permalink: /publication/tapp-astro_pipelines
 date: 2021-06-30
 venue: 'TAPP'
 paperurl: 'https://www.usenix.org/sites/default/files/tapp2021_johnson.pdf'
-tag: 'dmt'
+tag: 'dmt,mma'
 topic: 'semantics'
 authors: 'Michael A. C. Johnson (Max Planck Institute for Radio Astronomy and German Aerospace Center); Marcus Paradies (German Aerospace Center) and Marta Dembska (German Aerospace Center); Kristen Lackeos (Max Planck Institute for Radio Astronomy), Hans-Rainer Klöckner (Max Planck Institute for Radio Astronomy), and David J. Champion (Max Planck Institute for Radio Astronomy); Sirko Schindler (German Aerospace Center)'
 ---
