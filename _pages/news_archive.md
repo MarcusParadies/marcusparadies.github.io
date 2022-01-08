@@ -3,6 +3,8 @@ permalink: /archive/
 title: "News Archive"
 ---
 
+* <span style="color:red;font-weight:bold">06/2021:</span> Our work "Astronomical Pipeline Provenance: A Use Case Evaluation" has been accepted at the Theory and Practice of Provenance (TaPP'21) workshop! [[Read more]](https://marcusparadies.github.io/publication/tapp-astro_pipelines)
+* <span style="color:red;font-weight:bold">02/2021:</span> Our work-in-progress report "Automated I/O Parameter Tuning of Scientific Applications with Parametrizable Workload Replays" has been accepted at USENIX FAST'21! [[Read more]](https://marcusparadies.github.io/publication/fast-wip_parametrizable_workload_replays)
 * <span style="color:red;font-weight:bold">06/2019:</span> Our paper entitled "Automatic Facet Generation and Selection over Knowledge Graphs" has been accepted for publication at the SEMANTiCS'19 conference! [[Paper]](https://link.springer.com/chapter/10.1007%2F978-3-030-33220-4_23)
 * <span style="color:red;font-weight:bold">04/2019:</span> Our paper entitled "Cold Storage Data Archives: More Than Just a Bunch of Tapes" has been accepted at the DAMON'19 workshop co-located with SIGMOD! [[Paper]](https://dl.acm.org/authorize?N686393) [[Presentation]](https://marcusparadies.github.io/files/damon.coldstorage.presentation.pdf) [[Poster]](https://marcusparadies.github.io/files/damon.coldstorage.poster.pdf)
 * <span style="color:red;font-weight:bold">04/2019:</span> We are co-organizing the FG-DB track at the LWDA together with Ulf Leser (HU Berlin) in Berlin this year. Check out the [[CfP]](https://pages.cms.hu-berlin.de/ipa/lwda2019/cfp_dbwm) and consider submitting!
