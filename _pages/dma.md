@@ -18,6 +18,13 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Information Extraction and Interoperability Group](https://marcusparadies.github.io/ixi/)
 * [Data Access and Processing Group](https://marcusparadies.github.io/dzv/)
 
+## Alumni
+
+* [Wenjun Huang](https://marcusparadies.github.io/dmt/members/~huang/)
+* [Bunjamin Memishi](https://marcusparadies.github.io/dmt/members/~memishi/)
+* [Sireesha Chamarthi](https://marcusparadies.github.io/dmt/members/~chamarthi/)
+* [Hani Al-Sayeh (TU Ilmenau)](https://marcusparadies.github.io/dmt/members/~al-sayeh/)
+
 ## Job Offerings
 Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.
 
