@@ -13,14 +13,14 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ## Members
 
-* [Sirko Schindler (group lead)](https://marcusparadies.github.io/dmt/members/~schindler/)
-* [Marta Dembska](https://marcusparadies.github.io/dmt/members/~dembska/)
-* [Michael Gödel](https://marcusparadies.github.io/dmt/members/~goedel/)
+* [Sirko Schindler (group lead)](https://marcusparadies.github.io/mma/members/~schindler/)
+* [Marta Dembska](https://marcusparadies.github.io/mma/members/~dembska/)
+* [Michael Gödel](https://marcusparadies.github.io/mma/members/~goedel/)
 
 ## External Collaborators
 
-* [Leila Feddoul (FSU Jena)](https://marcusparadies.github.io/dmt/members/~feddoul/)
-* [Michael Johnson (MPIfR)](https://marcusparadies.github.io/dmt/members/~johnson/)
+* [Leila Feddoul (FSU Jena)](https://marcusparadies.github.io/mma/members/~feddoul/)
+* [Michael Johnson (MPIfR)](https://marcusparadies.github.io/mma/members/~johnson/)
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
