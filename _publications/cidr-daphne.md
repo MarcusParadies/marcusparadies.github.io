@@ -5,7 +5,8 @@ permalink: /publication/cidr-daphne
 date: 2022-01-10
 venue: 'CIDR'
 paperurl: 'http://cidrdb.org/cidr2022/papers/p4-damme.pdf'
-tag: 'dmt,daphne'
+tag: 'dmt'
+tag: 'daphne'
 storage: 'storage'
 authors: 'Patrick Damme (Graz University of Technology & Know-Center GmbH)*; Marius Birkenbach (KAI); Constantinos Bitsakos (NTUA); Matthias Boehm (Graz University of Technology); Philippe Bonnet (IT Univ Copenhagen, Denmark); Florina M. Ciorba (Technical University of Dresden, Germany / University of Basel, Switzerland); Mark Dokter (Know-Center GmbH); Pawel Dowgiallo (Intel); Ahmed Eleliemy (University of Basel); Christian Faerber (Intel Corporation); Georgios Goumas (National Technical University of Athens); Dirk Habich (TU Dresden); Niclas Hedam (IT University of Copenhagen); Marlies Hofer (AVL List GmbH); Wenjun Huang (German Aerospace Center); Kevin Innerebner (Graz University of Technology); Vasileios Karakostas (National Technical University of Athens (NTUA)); Roman Kern (KNOW-CENTER GmbH); Tomaž Kosar (University of Maribor); Alexander Krause (TU Dresden); Daniel Krems (AVL List GmbH); Andreas Laber (Infineon); Wolfgang Lehner (TU Dresden); Eric Mier (TU Dresden); Marcus Paradies (German Aerospace Center); Bernhard Peischl (); Gabrielle Poerwawinata (University of Basel); Stratos Psomadakis (ICCS/NTUA); Tilmann Rabl (HPI, University of Potsdam); Piotr Ratuszniak (Intel Technology Poland); Pedro Silva (HPI, University of Potsdam); Nikolai Skuppin (German Aerospace Center (DLR)); Andreas Starzacher (Infineon); Benjamin Steinwender (KAI GmbH); Ilin Tolovski (Hasso Plattner Institute); Pinar Tozun (IT University of Copenhagen); Wojciech Ulatowski (Intel); Yuanyuan Wang (Technical University of Munich (TUM); German Aerospace Center (DLR)); Izajasz Wrosz (Intel); Aleš Zamuda (University of Maribor); Ce Zhang (ETH); Xiaoxiang Zhu (Technical University of Munich (TUM); German Aerospace Center (DLR)'
 ---
