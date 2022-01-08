@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data Management and Enrichment Department"
+title: "Department Data Management and Enrichment"
 permalink: /dma/
 ---
 <p align="justify">
