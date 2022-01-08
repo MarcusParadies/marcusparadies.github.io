@@ -24,7 +24,16 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
-    {% if post.tag contains "mma" and post.tag contains "mma" %}
+    {% if post.tag contains "mma" %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
+  
+
+## Projects
+
+{% for post in site.portfolio %}
+  {% if post.active == "yes" and post.tag contains "mma" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
