@@ -1,5 +1,5 @@
 ---
-title: "CryoDrill—Near-Data Processing in Deep and Cold Storage Hierarchies"
+title: "DAPHNE: An Open and Extensible System Infrastructure for Integrated Data Analysis Pipelines"
 collection: publications
 permalink: /publication/cidr-daphne
 date: 2022-01-10
