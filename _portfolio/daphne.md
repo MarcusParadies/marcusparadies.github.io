@@ -13,4 +13,11 @@ The DAPHNE project aims to define and build an open and extensible system infras
 
 (Creative Commons BY-NC 3.0 license)
 
-[Project Website](https://daphne-eu.github.io/)
+[Project Website](https://daphne-eu.eu/)
+
+## Recent Publications
+  <ul>{% for post in site.publications reversed %}
+    {% if post.tag == "daphne" %}
+      {% include archive-single-cv.html %}
+    {% endif %}
+  {% endfor %}</ul>
