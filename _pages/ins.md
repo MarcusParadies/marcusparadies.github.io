@@ -19,7 +19,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
-    {% if post.tag == "ins" %}
+    {% if post.tag contains "ins" %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
