@@ -3,6 +3,7 @@ title: "DAPHNE: Integrated Data Analysis Pipelines for Large-Scale Data Manageme
 excerpt: "<img src='/images/Daphne_Crop.jpg'><br/>(Creative Commons BY-NC 3.0 license)"
 collection: portfolio
 active: 'yes'
+tag: 'ins'
 ---
 
 <p align="justify">
