@@ -5,7 +5,7 @@ permalink: /publication/dispa-performance_prediction
 date: 2020-08-31
 venue: 'DISPA'
 paperurl: 'http://marcusparadies.github.io/files/dispa-prediction.pdf'
-tag: 'dmt'
+tag: 'dmt,ins'
 topic: 'prediction'
 authors: 'Hani Al-Sayeh (Ilmenau University of Technology, Bunjamin Memishi (German Aerospace Center), Marcus Paradies (German Aerospace Center), Kai-Uwe Sattler (Ilmenau University of Technology)'
 ---
