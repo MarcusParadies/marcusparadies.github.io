@@ -14,7 +14,8 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 ## Groups
 
 * Marcus Paradies (acting department head)
-* [Metadata Management Group](https://marcusparadies.github.io/pages/mma/)
+* [Metadata Management Group](https://marcusparadies.github.io/mma/)
+* [Information Extraction and Interoperability Group](https://marcusparadies.github.io/ixi/)
 
 ## Job Offerings
 Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management.
