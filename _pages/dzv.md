@@ -16,7 +16,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * Marcus Paradies (acting group lead)
 * [Azat Nurgaliev](https://marcusparadies.github.io/dzv/members/~nurgaliev/)
 * [Arne Osterthun](https://marcusparadies.github.io/dzv/members/~osterthun/)
-* [Joshua Reibert](https://marcusparadies.github.io/dzv/members/~reibert/)
+<!--* [Joshua Reibert](https://marcusparadies.github.io/dzv/members/~reibert/)-->
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
