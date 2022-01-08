@@ -7,7 +7,7 @@ venue: 'DaMoN'
 paperurl: 'https://doi.org/10.1145/3329785.3329921'
 presentationurl: 'https://marcusparadies.github.io/files/damon.coldstorage.presentation.pdf'
 posterurl: 'https://marcusparadies.github.io/files/damon.coldstorage.poster.pdf'
-tag: 'dmt'
+tag: 'dmt,ins'
 topic: 'storage'
 authors: 'Bunjamin Memishi (German Aerospace Center), Raja Appuswamy (EURECOM), and Marcus Paradies (German Aerospace Center)'
 ---
