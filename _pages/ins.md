@@ -14,8 +14,8 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 ## Members
 
 * Marcus Paradies (acting group lead)
-* [Bara' Al-Bataineh](https://marcusparadies.github.io/dmt/members/~al-bataineh/)
-* [Constantin Pestka](https://marcusparadies.github.io/dmt/members/~pestka/)
+* [Bara' Al-Bataineh](https://marcusparadies.github.io/ins/members/~al-bataineh/)
+* [Constantin Pestka](https://marcusparadies.github.io/ins/members/~pestka/)
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
