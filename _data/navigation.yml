@@ -27,5 +27,5 @@ main:
   - title: "DLR Department Data Management and Enrichment"
     url: /dma/
 
-  - title: "Data Management Technologies Group"
-    url: /dmt/
+  #- title: "Data Management Technologies Group"
+  #  url: /dmt/
