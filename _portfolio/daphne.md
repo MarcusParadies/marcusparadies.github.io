@@ -17,7 +17,7 @@ The DAPHNE project aims to define and build an open and extensible system infras
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
-    {% if post.tag == "daphne" %}
+    {% if post.tag contains "daphne" %}
       {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
