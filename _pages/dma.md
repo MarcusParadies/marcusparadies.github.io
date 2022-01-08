@@ -17,6 +17,7 @@ The research is conducted in collaboration with the [German Remote Sensing Data 
 * [Metadata Management Group](https://marcusparadies.github.io/mma/)
 * [Information Extraction and Interoperability Group](https://marcusparadies.github.io/ixi/)
 * [Data Access and Processing Group](https://marcusparadies.github.io/dzv/)
+* [Infrastructures for Data-Intensive Systems Group](https://marcusparadies.github.io/ins/)
 
 ## Alumni
 
