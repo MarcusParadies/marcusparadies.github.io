@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/sigmod-juggler
 date: 2022-06-10
 venue: 'SIGMOD'
-paperurl: 'http://cidrdb.org/cidr2022/papers/p4-damme.pdf'
+_paperurl: 'http://cidrdb.org/cidr2022/papers/p4-damme.pdf'
 tag: 'dmt'
 storage: 'storage'
 authors: 'Hani Al-Sayeh (TU Ilmenau), Bunjamin Memishi (German Aerospace Center), Muhammad Attahir Jibril (TU Ilmenau), Marcus Paradies (German Aerospace Center), Kai-Uwe Sattler (TU Ilmenau)'
