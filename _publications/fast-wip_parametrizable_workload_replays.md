@@ -5,7 +5,7 @@ permalink: /publication/fast-wip_parametrizable_workload_replays
 date: 2021-02-24
 venue: 'FAST'
 paperurl: 'http://marcusparadies.github.io/files/fast-wip_parametrizable_workload_replays.pdf'
-tag: 'dmt'
+tag: 'dmt,dzv'
 storage: 'storage'
 authors: 'Azat Nurgaliev (German Aerospace Center), Marcus Paradies (German Aerospace Center)'
 ---
