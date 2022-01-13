@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/semantics-facets
 date: 2019-09-10
 venue: 'SEMANTiCS'
-tag: 'dmt'
+tag: 'dmt,mma'
 topic: 'semantics'
 authors: 'Leila Feddoul (FSU Jena), Sirko Schindler (German Aerospace Center), and Frank Löffler (FSU Jena)'
 ---
