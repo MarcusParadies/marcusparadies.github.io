@@ -4,12 +4,32 @@ title: "Metadata Management Group"
 permalink: /mma/
 ---
 <p align="justify">
-The ubiquitous data deluge poses tremendous challenges for efficient data access, data management, and data archiving and is a key driver for the rapid development and evolvement of modern data platforms.  The sheer explosion of data volumes and growing data veracity as well as increasingly heterogeneous data sources and applications call for novel methods and system architectures in the management of big data. As an immediate consequence, the processing paradigm mutates from "processing-focused", i.e., the data is moved to the processing facilities, into "data-focused", where the processing is moved to where the data resides. Based on concrete use cases and requirements of management of earth observation data, the research group develops novel methods and system concepts, which shall result in practical system developments for the corresponding institutions.</p>
+Data is becoming the main driver in an increasing number of areas within both academia and industry. Integrating and leveraging data from both public and private sources leads to new discoveries, enables pioneering developments, and results in innovative products. With stakeholders growing in number and variety, the data landscape gets ever more diverse, rich, and interesting. However, this increasing heterogeneity in users and data also gives rise to new challenges:
+Data descriptions need to serve a general audience instead of just a single project;
+Suitable datasets need to be identified amongst myriads of potential candidates and sources;
+The understanding of terms and concepts varies between different stakeholders and needs to be matched to one another.
+</p>
 
 <p align="justify">
-In this context, novel methods for storage and processing strategies for large volumes of heterogeneous, multi-dimensional data in distributed IT infrastructures, such as public/private clouds, are the main research areas of the group. In particular, the volume, veracity, and variety of data pose challenges for efficient data access methods. Multi-dimensional index structures and semantic annotations based on knowledge models are the key components that allow identifying and locating relevant data sets more efficiently. Data access itself can be further improved by leveraging domain-specific characteristics to improve data organization in the storage hierarchy and by taking potentially conflicting data access patterns into account. Ultimately, this enables the development of flexible yet efficient data exploitation platforms, which can handle large volumes of heterogeneous data while providing efficient data access and processing capabilities.</p>
+While the Semantic Web promises to alleviate these and other challenges, we are not quite there yet and the full potential of data-driven research and economy is still to be unleashed..
+</p>
 
-The research is conducted in collaboration with the [German Remote Sensing Data Center](https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-5278/8856_read-15911/), the [Max-Planck Institute for Radio Astronomy](https://www.mpifr-bonn.mpg.de/2169/en), the [Thüringer Landessternwarte Tautenburg](http://www.tls-tautenburg.de/TLS/index.php?id=2&L=1), and the academic collaborators from the [Technische Universität Ilmenau](https://www.tu-ilmenau.de/dbis/) and the [Friedrich-Schiller Universität Jena](http://fusion.cs.uni-jena.de/fusion/).
+<p align="justify">
+The central theme of the group is making data available not just its initial context but beyond the boundaries of projects, institutions, and communities. In collaboration with our partners, our activities revolve around the following key research areas and questions:
+
+* Metadata
+  * Which properties are essential or provide benefits to future users?
+  * What support can we give to users when describing their data?
+  * How can we seamlessly document the history of datasets, their provenance?
+* Semantic Web & Knowledge Graphs
+  * What is needed to mediate between different stakeholders along the data life cycle?
+  * How can Knowledge Graphs evolve reflecting changing user demands?
+* Data Management in Research and Industry
+  * What is necessary to establish proper data management practices?
+  * Which assistance can tools provide to users and data curators in their daily data-tasks?
+* Added Value
+  * What other services can we build on top of knowledge graphs and semantic metadata to support users?
+</p>
 
 ## Members
 
