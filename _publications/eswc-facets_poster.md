@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/eswc-facets_poster
 date: 2019-06-02
 venue: 'ESWC'
-tag: 'dmt,dzv'
+tag: 'dmt,mma'
 paperurl: 'http://marcusparadies.github.io/files/eswc-facets_poster.pdf'
 authors: 'Leila Feddoul (FSU Jena), Frank Löffler (FSU Jena), and Sirko Schindler (German Aerospace Center)'
 ---
