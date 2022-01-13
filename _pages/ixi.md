@@ -14,6 +14,7 @@ This exchange is made more difficult by the fact that information and data are a
 
 <p align="justify">
 In order to simplify the exchange of information and to make unstructured data accessible for further automated processing, the working group is therefore pursuing two main research areas:
+ 
 * Information extraction (primarily (further) development of natural language processing methods on documents)
 * Interoperability, especially at the semantic level
   * Development of methods and tools for the (semi-)automatic creation and extension of semantic models as a basis for interoperability
