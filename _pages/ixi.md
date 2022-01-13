@@ -6,9 +6,6 @@ permalink: /ixi/
 
 <p align="justify">
 Information and data exchange is essential for communication in a wide variety of areas; for example, between companies regarding production data or between research institutions regarding measurement and survey data.
-</p>
-
-<p align="justify">
 This exchange is made more difficult by the fact that information and data are available in incompatible and sometimes not even machine-readable formats. For example, they are often stored in - from the computer's point of view - unstructured or semi-structured documents.
 </p>
 
