@@ -14,7 +14,7 @@ Based on these requirements, the research group develops methods and technologie
 * Marcus Paradies (acting group lead)
 * [Azat Nurgaliev](https://marcusparadies.github.io/dzv/members/~nurgaliev/)
 * [Arne Osterthun](https://marcusparadies.github.io/dzv/members/~osterthun/)
-<!--* [Joshua Reibert](https://marcusparadies.github.io/dzv/members/~reibert/)-->
+* [Joshua Reibert](https://marcusparadies.github.io/dzv/members/~reibert/)
 
 ## Recent Publications
   <ul>{% for post in site.publications reversed %}
