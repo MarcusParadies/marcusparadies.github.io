@@ -19,18 +19,19 @@ An undergraduate-level understanding of maths, programming, data structures & al
 
 | | Date & Time | Topic(s)  | Slides | Supplementary Materials |
 |:---: | :---: | :---|:---:|:---:|
-|1| 06-04-2021, 11:00 - 12:30 |Introduction Data Storage Systems|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|2| 13-04-2021, 11:00 - 12:30 |Hardware Devices & Firmware|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|3| 20-04-2021, 11:00 - 12:30 |I/O Protocols & Interfaces|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|4| 20-04-2021, 11:00 - 12:30 |I/O Protocols & Interfaces|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|5| 04-05-2021, 11:00 - 12:30 |Linux I/O Subsystem|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|6| 11-05-2021, 11:00 - 12:30 |File Systems|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|7| 18-05-2021, 11:00 - 12:30 |Benchmarking I/O|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|8| 25-05-2021, 11:00 - 12:30 |I/O Performance Enhancements|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|9| 01-06-2021, 11:00 - 12:30 |Replication & Crash Recovery|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|10| 08-06-2021, 11:00 - 12:30 |Storage Tiering & Caching|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|11| 15-06-2021, 11:00 - 12:30 |Data Deduplication|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|12| 22-06-2021, 11:00 - 12:30 |Distributed File Systems|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|13| 29-06-2021, 11:00 - 12:30 |KV-Stores & Object Storage|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|14| 06-07-2021, 11:00 - 12:30 |Cloud Storage|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-|15| 13-07-2021, 11:00 - 12:30 |Recent Trends in the Storage Landscape|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|1| 06-04-2022, 11:00 - 12:30 |Introduction Data Storage Systems|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|2| 13-04-2022, 11:00 - 12:30 |Storage Devices & Firmware|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|3| 20-04-2022, 11:00 - 12:30 |I/O Protocols & Interfaces|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|4| 20-04-2022, 11:00 - 12:30 |Linux I/O Subsystem|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|5| 04-05-2022, 11:00 - 12:30 |File System Implementations|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|6| 11-05-2022, 11:00 - 12:30 |I/O Performance Tracing & Benchmarking|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|7| 18-05-2022, 11:00 - 12:30 |High-Performance I/O & I/O Performance Tuning|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+
+|8| 25-05-2022, 11:00 - 12:30 |Data Replication & Recovery|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|9| 01-06-2022, 11:00 - 12:30 |No Lecture|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|10| 08-06-2022, 11:00 - 12:30 |Caching & Storage Tiering|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|11| 15-06-2022, 11:00 - 12:30 |Data Reduction Techniques|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|12| 22-06-2022, 11:00 - 12:30 |Distributed File Systems|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|13| 29-06-2022, 11:00 - 12:30 |Key-Value Stores & Cloud Storage|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|14| 06-07-2022, 11:00 - 12:30 |Selected Data Storage System Research Topics|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
+|15| 13-07-2022, 11:00 - 12:30 |Backup|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
