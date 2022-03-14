@@ -10,10 +10,10 @@ redirect_from:
 
 Hi, I'm Marcus!
 
-I'm leading a research group on data management technologies for scientific application domains, such as, earth observation and radio astronomy, at the [Institute of Data Science](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12192/21400_read-49437/) of the German Aerospace Center (DLR) in Jena, Germany.
+I'm a researcher at the German Aerospace Center and lead the department "Data Management and Enrichment" at the [Institute of Data Science](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12192/21400_read-49437/) of the German Aerospace Center (DLR) in Jena, Germany.
 
 <p align="justify">
-I'm broadly interested in large-scale data management with a focus on building systems to enable efficient query processing on large volumes
+I'm broadly interested in large-scale data management with a focus on building systems to enable efficient data analysis and processing on large volumes
 of structured, semistructured, and unstructured data. I am particularly interested in query processing, query optimization and rewriting, index
 structures, algorithms, and data structures.</p>
 
