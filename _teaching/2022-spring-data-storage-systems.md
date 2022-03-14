@@ -26,7 +26,6 @@ An undergraduate-level understanding of maths, programming, data structures & al
 |5| 04-05-2022, 11:00 - 12:30 |File System Implementations|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
 |6| 11-05-2022, 11:00 - 12:30 |I/O Performance Tracing & Benchmarking|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
 |7| 18-05-2022, 11:00 - 12:30 |High-Performance I/O & I/O Performance Tuning|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
-
 |8| 25-05-2022, 11:00 - 12:30 |Data Replication & Recovery|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
 |9| 01-06-2022, 11:00 - 12:30 |No Lecture|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
 |10| 08-06-2022, 11:00 - 12:30 |Caching & Storage Tiering|[slides](https://marcusparadies.github.io/teaching/2022-spring-data-storage-systems)||
