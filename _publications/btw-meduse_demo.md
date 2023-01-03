@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/btw-meduse_demo
 date: 2023-03-06
 venue: 'BTW'
-paperurl: 'http://cidrdb.org/cidr2022/papers/p4-damme.pdf'
+paperurl: 'https://marcusparadies.github.io/files/btw-meduse_demo.pdf'
 tag: 'dmt,dzv'
 authors: ' Joshua Reibert (German Aerospace Center), Arne Osterthun (German Aerospace Center), Marcus Paradies (German Aerospace Center)'
 ---
