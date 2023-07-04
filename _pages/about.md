@@ -10,14 +10,14 @@ redirect_from:
 
 Hi, I'm Marcus!
 
-I'm a researcher at the German Aerospace Center and lead the department "Data Management and Enrichment" at the [Institute of Data Science](https://www.dlr.de/dw/en/desktopdefault.aspx/tabid-12192/21400_read-49437/) of the German Aerospace Center (DLR) in Jena, Germany.
+I'm a PostDoc researcher at the Ilmenau University of Technology in the Databases Systems group led by Prof. Sattler.
 
 <p align="justify">
 I'm broadly interested in large-scale data management with a focus on building systems to enable efficient data analysis and processing on large volumes
 of structured, semistructured, and unstructured data. I am particularly interested in query processing, query optimization and rewriting, index
 structures, algorithms, and data structures.</p>
 
-**Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@dlr.de) for a list of available topics on large-scale data management within our group.**
+**Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@tu-ilmenau.de) for a list of available topics on large-scale data management within our group.**
 
 ### News
 * <span style="color:red;font-weight:bold">12/2022:</span> We are excited to announce that our demo paper "Meduse: Interactive and Visual Exploration of Ionospheric Data" has been accepted for publication at BTW'23! [[Read more]](https://marcusparadies.github.io/publication/btw-meduse_demo)
