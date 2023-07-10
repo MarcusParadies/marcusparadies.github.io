@@ -24,8 +24,8 @@ main:
   - title: "Service"
     url: /service/
     
-  - title: "DLR Department Data Management and Enrichment"
-    url: /dma/
+ # - title: "DLR Department Data Management and Enrichment"
+ #   url: /dma/
 
   #- title: "Data Management Technologies Group"
   #  url: /dmt/
