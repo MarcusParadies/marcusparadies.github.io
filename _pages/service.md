@@ -9,6 +9,8 @@ title: "Service"
 * Subreviewer for [Euro-Par 2019](https://2019.euro-par.org/)
 
 ### Academic Workshops
+* Reviewer for [CHEOPS 2023](https://cheops-workshop.github.io/2023.html) (co-located with EuroSys 2023)
+* Reviewer for [CHEOPS 2022](https://cheops-workshop.github.io/2022.html) (co-located with EuroSys 2022)
 * Reviewer for [GRADES-NDA 2021](https://sites.google.com/site/gradesnda2021) (co-located with SIGMOD 2021)
 * Reviewer for [GRADES-NDA 2020](https://sites.google.com/site/gradesnda2020) (co-located with SIGMOD 2020)  
 * Reviewer for [GRADES-NDA 2019](https://sites.google.com/site/gradesnda2019) (co-located with SIGMOD 2019)  
