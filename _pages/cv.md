@@ -23,10 +23,12 @@ Education
 
 Work experience
 ======
-* Since 05/2020: Acting department head at German Aerospace Center (DLR), Jena, Germany  
+* Since 07/2023: PostDoc PostDoc researcher at the Ilmenau University of Technology in the Databases Systems group, Ilmenau, Germany  
+  
+* 2020-2023: Department head at German Aerospace Center (DLR), Jena, Germany  
   Leading a department of 4 research groups on data management and analysis
   
-* Since 03/2018: Research Group Lead at German Aerospace Center (DLR), Jena, Germany  
+* 2018-2020: Research Group Lead at German Aerospace Center (DLR), Jena, Germany  
   Leading a research group on large-scale data management for scientific domains
 
 * 2016-2018: Senior Software Developer at SAP SE, Walldorf, Germany    
