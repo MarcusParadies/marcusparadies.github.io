@@ -17,7 +17,7 @@ I'm broadly interested in large-scale data management with a focus on building s
 of structured, semistructured, and unstructured data. I am particularly interested in query processing, query optimization and rewriting, index
 structures, algorithms, and data structures.</p>
 
-**Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:marcus.paradies@tu-ilmenau.de) for a list of available topics on large-scale data management within our group.**
+**Are you a student looking for BSc/MSc thesis projects? Contact [me](mailto:paradies@dbs.ifi.lmu.de) for a list of available topics on large-scale data management within our group.**
 
 ### News
 * <span style="color:red;font-weight:bold">12/2022:</span> We are excited to announce that our demo paper "Meduse: Interactive and Visual Exploration of Ionospheric Data" has been accepted for publication at BTW'23! [[Read more]](https://marcusparadies.github.io/publication/btw-meduse_demo)
