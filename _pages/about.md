@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Marcus!
 
-I'm a PostDoc researcher at the Ilmenau University of Technology in the Databases Systems group led by Prof. Sattler.
+I'm a Professor of Computer Science at LMU Munich where I lead the Databases Systems group.
 
 <p align="justify">
 I'm broadly interested in large-scale data management with a focus on building systems to enable efficient data analysis and processing on large volumes
