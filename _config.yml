@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Marcus Paradies"
 title_separator          : "-"
 name                     : &name "Marcus Paradies"
-description              : &description "Postdoc at Ilmenau University of Technology"
+description              : &description "Professor of Computer Science at LMU Munich"
 url                      : https://marcusparadies.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MarcusParadies/marcusparadies.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marcus Paradies"
   avatar           : "paradies_small.jpg"
-  bio              : "PostDoc researcher at the Ilmenau University of Technology working on large-scale data management"
-  location         : "Ilmenau, Germany"
+  bio              : "Professor at LMU Munich working on large-scale data management"
+  location         : "Munich, Germany"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=psFgGl8AAAAJ&hl=de"
   email            :
